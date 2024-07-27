@@ -45,4 +45,4 @@ Feel free to fork this repository and submit pull requests for any enhancements 
 
 ## License
 
-This project is licensed under the MIT License([LICENSE](https://github.com/Lightning-President-9/ClanDataRetriveFromAPI/blob/main/LICENSE)).
+This project is licensed under the ([MIT License](https://github.com/Lightning-President-9/ClanDataRetriveFromAPI/blob/main/LICENSE)).
